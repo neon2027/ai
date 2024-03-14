@@ -1,0 +1,6 @@
+product1,10
+product2,20
+product3,30
+Ketchup,25
+Hotdog,250
+Tocino BBQ,500

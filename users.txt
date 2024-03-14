@@ -1,0 +1,6 @@
+user1,$2b$12$KbBwK08bk3Z7oAFUw72IgehWTlHb4Z0mqWD4SqVJ9UHAJyRi45Coi
+user2,$2b$12$BgVAj4HtbonWIaC2wrZnFObVF9NmJkl9h9ylBLp0c49xRV7YCRht.
+user3,$2b$12$ijs/6NirSQ0Yph0/ugBYfO1fi0KSzptYjco6DeRRthgru3CcO.z8q
+Exequiel,$2b$12$W1fr5SSllqNchYrzMckzW.oR9Ga0CSoW6bXF/b9I2I.OLpiYbTvaC
+sd,$2b$12$xSikNr1M1PCNouST6/fPROsnuFxjulDCSYI0W/OuuqjRxys9AQ5cC
+test,$2b$12$NWA97sCuiQlapD19fA7n9eslIzUSRvqWelknxg8HbHsKlrtnFPrpm
